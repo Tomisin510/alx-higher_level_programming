@@ -1,14 +1,4 @@
 
-You just released the optional tasks of this project. Have fun!
-0x00. Python - Hello, World
- By Guillaume
- Weight: 1
- Ongoing project - started May 30, 2022, must end by May 31, 2022 - you're done with 0% of tasks.
- Checker was released at May 30, 2022 12:00 PM
- An auto review will be launched at the deadline
-Concepts
-For this project, we are expected you to look at this concept:
-
 Python programming
 
 
